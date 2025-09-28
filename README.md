@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatin Kumar Dixit 
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Artificial Intelligence & Data Science.
+- 👀 I’m interested in Data Science and Artificial Intellegence & Machine Learning.
+- 🌱  Artificial Intelligence & Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 
 - 😄
